@@ -1,0 +1,19 @@
+{
+  "status": "000",
+  "message": "정상 (이 파일은 학습용 가상 데이터입니다. 실제 회사와 무관합니다.)",
+  "list": [
+    {"bsns_year": "2025", "sj_div": "BS", "sj_nm": "재무상태표", "account_id": "ifrs-full_CurrentAssets", "account_nm": "유동자산", "thstrm_amount": "400000000000", "frmtrm_amount": "350000000000"},
+    {"bsns_year": "2025", "sj_div": "BS", "sj_nm": "재무상태표", "account_id": "ifrs-full_CashAndCashEquivalents", "account_nm": "현금및현금성자산", "thstrm_amount": "120000000000", "frmtrm_amount": "100000000000"},
+    {"bsns_year": "2025", "sj_div": "BS", "sj_nm": "재무상태표", "account_id": "ifrs-full_Inventories", "account_nm": "재고자산", "thstrm_amount": "100000000000", "frmtrm_amount": "90000000000"},
+    {"bsns_year": "2025", "sj_div": "BS", "sj_nm": "재무상태표", "account_id": "ifrs-full_NoncurrentAssets", "account_nm": "비유동자산", "thstrm_amount": "600000000000", "frmtrm_amount": "550000000000"},
+    {"bsns_year": "2025", "sj_div": "BS", "sj_nm": "재무상태표", "account_id": "ifrs-full_Assets", "account_nm": "자산총계", "thstrm_amount": "1000000000000", "frmtrm_amount": "900000000000"},
+    {"bsns_year": "2025", "sj_div": "BS", "sj_nm": "재무상태표", "account_id": "ifrs-full_CurrentLiabilities", "account_nm": "유동부채", "thstrm_amount": "200000000000", "frmtrm_amount": "190000000000"},
+    {"bsns_year": "2025", "sj_div": "BS", "sj_nm": "재무상태표", "account_id": "ifrs-full_Liabilities", "account_nm": "부채총계", "thstrm_amount": "400000000000", "frmtrm_amount": "380000000000"},
+    {"bsns_year": "2025", "sj_div": "BS", "sj_nm": "재무상태표", "account_id": "ifrs-full_Equity", "account_nm": "자본총계", "thstrm_amount": "600000000000", "frmtrm_amount": "520000000000"},
+    {"bsns_year": "2025", "sj_div": "IS", "sj_nm": "손익계산서", "account_id": "ifrs-full_Revenue", "account_nm": "매출액", "thstrm_amount": "1200000000000", "frmtrm_amount": "1000000000000"},
+    {"bsns_year": "2025", "sj_div": "IS", "sj_nm": "손익계산서", "account_id": "ifrs-full_CostOfSales", "account_nm": "매출원가", "thstrm_amount": "800000000000", "frmtrm_amount": "680000000000"},
+    {"bsns_year": "2025", "sj_div": "IS", "sj_nm": "손익계산서", "account_id": "ifrs-full_GrossProfit", "account_nm": "매출총이익", "thstrm_amount": "400000000000", "frmtrm_amount": "320000000000"},
+    {"bsns_year": "2025", "sj_div": "IS", "sj_nm": "손익계산서", "account_id": "-표준계정코드 미사용-", "account_nm": "영업이익(손실)", "thstrm_amount": "150000000000", "frmtrm_amount": "110000000000"},
+    {"bsns_year": "2025", "sj_div": "IS", "sj_nm": "손익계산서", "account_id": "ifrs-full_ProfitLoss", "account_nm": "당기순이익(손실)", "thstrm_amount": "90000000000", "frmtrm_amount": "70000000000"}
+  ]
+}
